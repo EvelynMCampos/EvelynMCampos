@@ -6,12 +6,22 @@
 - 📚 Estudante de Phyton
 
 
-<div> 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evelynmcampos&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynmcampos&layout=compact&theme=dracula"/>
+</div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evelynmcampos&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evelynmcampos&layout=compact&theme=dracula)
+ ## 🛠️ Technologies:
+ 
+ 
+<div style="display: inline_block">
+<img align="center" alt="Evelyn-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  
+</div>
 
+ ## ❤️ Contatos:
+ 
 
-
-</div> 
+ [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelyn-campos-71883b138/)
