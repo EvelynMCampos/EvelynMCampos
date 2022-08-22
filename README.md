@@ -1,6 +1,6 @@
 ## <strong> 🌍 Bem-vindo ao mundo de Evelyn!!
 
 #### - 🙋🏼‍♀️ Prazer
-#### - 🎓 Eu me formei em Publicidade e propaganda
+#### - 🎓 Eu me formei em PP
 #### - 👀 Sou interessada em Programação
-#### - 📚 Estudante de Phyton 
+#### - 📚 Estudante de Phyton
