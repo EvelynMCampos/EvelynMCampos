@@ -12,7 +12,7 @@
 </div>
 
 
- ## 🛠️ Technologies:
+ ## 🛠️ Tecnologias:
  
  
 <div style="display: inline_block">
