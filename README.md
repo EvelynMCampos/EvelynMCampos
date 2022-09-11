@@ -3,7 +3,7 @@
 - 🙋🏼‍♀️ Prazer
 - 🎓 Eu me formei em PP
 - 👀 Sou interessada em Programação
-- 📚 Estudante de Python
+- 📚 Estudante de Python, CSS , HTML e JavaScript.
 
 
 <div>
