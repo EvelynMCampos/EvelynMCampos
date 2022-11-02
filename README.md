@@ -3,7 +3,7 @@
 - 🙋🏼‍♀️ Prazer
 - 🎓 Eu me formei em PP
 - 👀 Sou interessada em Programação
-- 📚 Estudante de Python e JavaScript.
+- 📚 Estudante de JavaScript e ReactJS.
 
 <p float="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evelynmcampos&show_icons=true&theme=github_dark&hide_border=true"/>
