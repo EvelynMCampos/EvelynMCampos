@@ -2,7 +2,7 @@
 
 - 🙋🏼‍♀️ Prazer
 - 🎓 Eu me formei em PP
-- 👀 Mudando de area
+- 👀 Migrando de area
 - 📚 Estudante de JavaScript e ReactJS.
 
 <p float="left" align="center">
