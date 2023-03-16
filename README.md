@@ -6,7 +6,6 @@
 
 <p float="left" align="center">
 <img width="380" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynMCampos&layout=compact&theme=github_dark&border=FFFFFF03&hide_border=true&locale=pt-br&hide_title=true"/>
-  <img width="380" src="http://github-streak-stats.herokuapp.com/?user=EvelynMCampos&theme=dark&background=0D1117&border=FF2D2D00"/>
 </p>
 
 
