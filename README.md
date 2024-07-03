@@ -1,8 +1,8 @@
 ## 🌍 Bem-vindo ao mundo de Evelyn!!
 
 - 🙋🏼‍♀️ Prazer
-- 🎓 Eu me formei em PP
-- 📚 Estudante de Python.
+- 🎓 Eu me formei em PP e Atualmente estou fazendo Gestao da Tecnologia da Informação.
+- 📚 Estudante de Python
 
 <p float="left" align="center">
 <img width="380" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynMCampos&layout=compact&theme=github_dark&border=FFFFFF03&hide_border=true&locale=pt-br&hide_title=true"/>
